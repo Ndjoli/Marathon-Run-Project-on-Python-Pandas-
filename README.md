@@ -1,64 +1,81 @@
-🏃 Marathon Run Analysis with Python & Pandas
-This project uses Python and the powerful Pandas library to perform an in-depth analysis of marathon running data. The objective is to uncover trends, patterns, and potential insights from a marathon dataset — including runner performance by age, gender, nationality, and other influencing factors.
+# 🏃 Marathon Run Analysis with Python & Pandas
 
-📊 Project Overview
-Goal:
-To analyze marathon data and answer key questions about runner performance. This includes:
+This project uses **Python** and the powerful **Pandas** library to perform an in-depth analysis of marathon running data. The goal is to uncover patterns, trends, and actionable insights related to runner performance across different demographics such as **age**, **gender**, and **nationality**.
 
-Average finish times across various demographics
+---
 
-Performance variation by age and gender
+## 📊 Project Overview
 
-Impact of external factors such as weather and nationality
+The aim of this analysis is to answer critical performance-related questions, including:
 
-🔧 Tools & Technologies
-Python 3
+- ⏱️ Average finish times across various demographics  
+- 👥 Performance variation by age and gender  
+- 🌍 Impact of external factors such as nationality and weather  
 
-Pandas
+---
 
-NumPy
+## 🔧 Tools & Technologies
 
-Matplotlib / Seaborn (for visualizations)
+- 🐍 Python 3  
+- 🧮 Pandas & NumPy  
+- 📊 Matplotlib & Seaborn (for visualizations)  
+- 📓 Jupyter Notebook (for interactive exploration)  
 
-Jupyter Notebook (for interactive analysis)
+---
 
-🧹 Data Cleaning & Transformation
-Handled missing values and outliers
+## 🧹 Data Cleaning & Transformation
 
-Standardized column formats
+- ✅ Handled missing values and outliers  
+- 🧾 Standardized column formats  
+- ⏲️ Parsed and converted time-related fields  
+- 🧑‍🤝‍🧑 Grouped data by key attributes like **age**, **gender**, and **country**  
 
-Parsed and converted time-related fields
+---
 
-Grouped and categorized data by key attributes (age, gender, country, etc.)
+## 🔍 Exploratory Data Analysis
 
-🔍 Exploratory Data Analysis
-Distribution of finishing times
+- 🕓 Distribution of finishing times  
+- 📉 Trends by age groups  
+- ⚥ Gender-based performance comparison  
+- 🌐 Country-wise performance breakdown  
+- 🔗 Correlation analysis between **age**, **pace**, and **results**  
 
-Performance trends over different age groups
+---
 
-Gender-based comparisons
+## 📸 Project Screenshots
 
-Country-wise performance averages
+### Gender Distribution by Race Distance
+![Gender Distribution](92806a3e-bade-4174-a98b-74dad2b4c259.png)
 
-Correlation analysis between factors like age, pace, and results
+### Speed vs Age by Gender
+![Speed vs Age](6c01ec48-36a6-4428-b050-9c8cd71d8a02.png)
 
-📈 Key Insights
-Younger age groups generally perform faster in full marathons
+---
 
-Male and female runners show different pacing strategies
+## 📈 Key Insights
 
-Certain nationalities dominate top finisher rankings
+- 🧒 Younger age groups generally perform faster in full marathons  
+- ⚥ Male and female runners demonstrate different pacing strategies  
+- 🌍 Certain nationalities dominate top finisher rankings  
+- ☀️ Weather conditions (if available) show an impact on average finish times  
 
-Weather conditions can noticeably influence average finishing times (if applicable)
+---
 
-📁 Project Structure
-graphql
-Copy
-Edit
+## 📁 Project Structure
+
+```
 📂 Marathon-Run-Project-on-Python-Pandas/
 │
-├── data/                 # Raw and cleaned datasets
-├── notebooks/            # Jupyter Notebooks for EDA
-├── visuals/              # Plots and visualizations
-├── README.md             # Project overview and documentation
-└── requirements.txt      # Python dependencies
+├── data/                 # Raw and cleaned datasets  
+├── notebooks/            # Jupyter Notebooks for EDA  
+├── visuals/              # Plots and visualizations  
+├── README.md             # Project overview and documentation  
+└── requirements.txt      # Python dependencies  
+```
+
+---
+
+## 📬 Contact
+
+📧 [armanndjoli97@gmail.com](mailto:armanndjoli97@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/arman-ndjoli97)
