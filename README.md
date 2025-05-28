@@ -6,7 +6,7 @@ This project uses **Python** and the powerful **Pandas** library to perform an i
 
 ## 📊 Project Overview
 
-The aim of this analysis is to answer critical performance-related questions, including:
+**The aim of this analysis is to answer critical performance-related questions, including:**
 
 - ⏱️ Average finish times across various demographics  
 - 👥 Performance variation by age and gender  
