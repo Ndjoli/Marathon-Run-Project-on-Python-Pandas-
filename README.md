@@ -44,11 +44,11 @@ The aim of this analysis is to answer critical performance-related questions, in
 
 ## 📸 Project Screenshots
 
-### Gender Distribution by Race Distance
-![Gender Distribution](92806a3e-bade-4174-a98b-74dad2b4c259.png)
+### Speed vs Age by Gender  
+![Speed vs Age](Screenshot%202025-04-24%20122738.png)
 
-### Speed vs Age by Gender
-![Speed vs Age](6c01ec48-36a6-4428-b050-9c8cd71d8a02.png)
+### Gender Distribution by Race Distance  
+![Gender Distribution](Screenshot%202025-04-24%20122718.png)
 
 ---
 
